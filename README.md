@@ -168,7 +168,7 @@ enable kembali
 
 </details>
 
-## ==== /STAGE 8 = MANUAL QUERY
+## ==== /STAGE 9 = MIGRATION MYSQL TO POSTGRESQL TypeORM
 
 
  
